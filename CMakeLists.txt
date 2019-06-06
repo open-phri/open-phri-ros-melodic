@@ -10,7 +10,7 @@ PID_Package(
 			YEAR        2019
 			LICENSE     CeCILL
 			DESCRIPTION TODO: input a short description of package open-phri-ros utility here
-			VERSION     0.0.0
+			VERSION     0.1.0
 		)
 
 #now finding packages
