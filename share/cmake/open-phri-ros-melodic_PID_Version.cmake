@@ -1,0 +1,1 @@
+set(open-phri-ros-melodic_PID_VERSION 3 CACHE INTERNAL "")
